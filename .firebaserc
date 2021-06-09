@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "proyecto-398fe"
+  },
+  "targets": {
+    "proyecto-398fe": {
+      "hosting": {
+        "portafolio3": [
+          "portafolio3"
+        ]
+      }
+    }
+  }
+}
